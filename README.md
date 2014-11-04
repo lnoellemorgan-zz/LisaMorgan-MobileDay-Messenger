@@ -18,3 +18,6 @@ Steps for running:
   2. On one device enter the Phone Number of the other device or emulator.
   3. Enter a message.
   4. Click Send! :)
+
+
+Test!
